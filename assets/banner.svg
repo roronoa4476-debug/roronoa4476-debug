@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Abdul Malik, online as Nightmare. Student learning through real projects.">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#15131f"/><stop offset="1" stop-color="#242038"/></linearGradient></defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <g fill="none" stroke="#51436f" opacity=".45"><circle cx="1080" cy="160" r="170"/><circle cx="1080" cy="160" r="128"/><circle cx="1080" cy="160" r="86"/><path d="M850 160h350M1080 0v320"/></g>
+  <rect x="66" y="52" width="34" height="34" rx="10" fill="#bfacf8"/><text x="83" y="77" text-anchor="middle" fill="#191323" font-family="Arial,sans-serif" font-size="24" font-weight="bold">N</text>
+  <text x="116" y="75" fill="#aaa2bd" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">NIGHTMARE / LEARNING IN PUBLIC</text>
+  <text x="66" y="163" fill="#f4f1fc" font-family="Arial,sans-serif" font-size="58" font-weight="bold" letter-spacing="-2">Abdul Malik</text>
+  <text x="68" y="205" fill="#bfacf8" font-family="Arial,sans-serif" font-size="22">Student. Curious builder. Work in progress.</text>
+  <path d="M68 241h48" stroke="#bfacf8" stroke-width="3"/>
+  <text x="132" y="246" fill="#aaa2bd" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">SMALL STEPS. REAL PROJECTS.</text>
+</svg>
